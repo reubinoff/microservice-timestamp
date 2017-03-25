@@ -1,0 +1,22 @@
+{
+    "name": "microservice-timestamp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/reubinoff/microservice-timestamp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/reubinoff/microservice-timestamp/issues"
+    },
+    "homepage": "https://github.com/reubinoff/microservice-timestamp#readme",
+    "dependencies": {
+        "express": "^4.15.2"
+    }
+}
